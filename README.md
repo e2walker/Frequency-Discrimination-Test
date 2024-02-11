@@ -1,4 +1,6 @@
-Frequency Discrimination Threshold Project for Psych 14P: Scientific Python for Research
+Frequency Discrimination Threshold Project
+
+Psych 14P: Scientific Python for Research
 
 Collaboration between Enya Walker and Kristie Flores, completed under Dr. Ramesh Srinivasan
 
